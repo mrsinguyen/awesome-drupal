@@ -15,5 +15,8 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 ## Javascript libraries
 
 ## Modules
+### Development
+
+* [php_error](https://www.drupal.org/project/php_error) — Error reporting done right!
 
 ## Resources
