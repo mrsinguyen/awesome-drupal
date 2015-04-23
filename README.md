@@ -15,6 +15,17 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 
 ## Developer Guides
 
+* [Develop for Drupal](https://www.drupal.org/documentation/develop) - Work with the API, JavaScript, and databases. Learn the Drupal coding standards. Audience: developers.
+* [API Reference](http://api.drupal.org/) - Search the complete Drupal API including forms, menus, node access, theme system, etc.
+* [Examples for Developers](http://drupal.org/project/examples) - Examine a standard repository of sample modules that can be used to learn module development, or are referenced on handbook pages.
+* [Git documentation](https://www.drupal.org/documentation/git) - Git is the version control system Drupal developers use to manage, and collaborate on, their projects and code.
+* [Glossary](https://www.drupal.org/glossary) - Find definitions of Drupal terminology and acronyms.
+* [Code snippets](https://www.drupal.org/documentation/customization/snippets) - Reuse chunks of Drupal code that people have shared with the community.
+* [Troubleshooting](https://www.drupal.org/troubleshooting) - Identify and solve problems with servers, page display, permissions, logins, etc.
+* [FAQs](https://www.drupal.org/drupal-faq) - Learn about documentation, licensing, the Drupal Association, community, etc.
+* [Tutorials and recipes](https://www.drupal.org/node/627198) - Find miscellaneous information contributed by other Drupal users.
+* [Resource guides](https://www.drupal.org/resource-guides) - A collection of resources and tools for building Drupal websites.
+
 ## Distributions
 
 * [ELMS](http://www.elmsln.org) - ELMS Learning Network.
