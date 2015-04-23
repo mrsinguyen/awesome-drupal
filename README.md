@@ -40,7 +40,7 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 * [Drupal Rooms](http://www.drupalrooms.com) - Drupal Rooms is a Drupal 7 booking & room management solution for hotels and other accommodations - anywhere rooms reservations are required, including conferences, hospitals, vacation rentals, B&B's & more.
 * [Commerce Kickstart](https://www.drupal.org/project/commerce_kickstart) - Commerce Kickstart is the quickest way to get up and running with Drupal Commerce. It includes the latest versions of Drupal core, Drupal Commerce, and the other modules it depends on. It also gives you a set of options to create a fully-featured demo store out of the box complete with an attractive theme, catalog and search configuration, and a custom back office interface.
 * [Open Deals](https://www.drupal.org/project/opendeals) - Open Deals is a Free Deals Site distribution, based on Drupal 7, Drupal Commerce and other modules.
-You can use the distribution for you or your clients and you can modify it at will.
+* [Spark](https://www.drupal.org/project/spark) - Spark is a Drupal distribution which aims to work out solutions to authoring experience problems in the field and apply to latest development versions of Drupal. Therefore our work started implementing improvements as modules on Drupal 7 and then our focus shifted to working on incorporating and enhancing them in Drupal 8 for core inclusion.
 
 ## Security
 
@@ -49,6 +49,7 @@ You can use the distribution for you or your clients and you can modify it at wi
 ## Modules
 ### Administration
 
+* [Navbar](https://www.drupal.org/project/navbar) - A very simple mobile friendly navigation toolbar introduced as part of the Spark project to solve mobile editing problems with the Drupal 7 shipped toolbar, that is not very friendly to small screen sizes.
 * [Administration menu](https://www.drupal.org/project/admin_menu) - Provides a theme-independent administration interface (aka. navigation, back-end). It's a helper for novice users coming from other CMS, a time-saver for site administrators, and useful for developers and site builders.
 * [Features](Features) - The features module enables the capture and management of features in Drupal. A feature is a collection of Drupal entities which taken together satisfy a certain use-case.
 
