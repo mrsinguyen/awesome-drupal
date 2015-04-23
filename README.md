@@ -2,11 +2,18 @@
 
 A curated list of amazingly awesome Drupal open source, resources and shiny things.
 
-## Understanding Drupal
+## User and Builder Guides
 
 * [Drupal Concepts](https://www.drupal.org/documentation/concepts) - Before you install Drupal and begin using it, it’s a good idea to get an overall sense of what it is, and how it works.
+* [Installation Guide](https://www.drupal.org/documentation/install) - Install Drupal and its contributed modules and themes. Run multiple sites from one installation. Migrate from other content management systems and address platform issues.
+* [Administration & Security Guide](https://www.drupal.org/documentation/administer) - Manage users and content, perform backups and upgrades, secure your site, tweak performance, etc. Audience: System and site administrators.
+* [Structure Guide](https://www.drupal.org/documentation/structure) - Work with content types, blocks, menus, views, panels, taxonomy, user profiles, and navigation. Audience: information architects.
+* [Site Building Guide](https://www.drupal.org/documentation/build) - Add functionality and features such as e-commerce, forums, media, search, geographic data, dates, workflow, messaging, forms, social networking, etc. Audience: site builders, developers and business architects.
+* [Multilingual Guide](https://www.drupal.org/documentation/multilingual) - How to build sites in other languages and multi-language sites. Audience: site builders, site administrators.
+* [Theming Guide](https://www.drupal.org/documentation/theme) - Customize the interface using templates, CSS, etc. Override the output from core or contributed modules. Audience: designers, usability and accessibility professionals, interface experts.
+* [Mobile Guide](https://www.drupal.org/documentation/mobile) - How to build sites to support mobile devices. Audience: site builders, site administrators, designers.
 
-## Documentation
+## Developer Guides
 
 ## Distributions
 
