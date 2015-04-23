@@ -52,3 +52,6 @@ You can use the distribution for you or your clients and you can modify it at wi
 * [php_error](https://www.drupal.org/project/php_error) — Error reporting done right!
 
 ## Resources
+### Books
+
+* [Drupal Books](https://www.drupal.org/books) - There are many useful books about Drupal. Here are just a few of our recommendations.
