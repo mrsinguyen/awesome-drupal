@@ -135,6 +135,10 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 * [Token](https://www.drupal.org/project/token) - Tokens are small bits of text that can be placed into larger documents via simple placeholders, like %site-name or [user]. The Token module provides a central API for modules to use these tokens, and expose their own token values.
 
 ## Resources
+### Tutorials
+
+* [Learn Drupal 7](http://nodeone.se/en/learn-drupal-7-with-nodeone) - This learning series was made for people new to Drupal, who have heard about the most powerful CMS on earth and would like to get started without getting stuck – or just get an overview of what you can do with it. There are pointers to additional modules and extra fun here and there, but the series itself covers Drupal core only. (by NodeOne)
+
 ### Books
 
 * [Drupal Books](https://www.drupal.org/books) - There are many useful books about Drupal. Here are just a few of our recommendations.
