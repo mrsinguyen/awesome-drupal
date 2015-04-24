@@ -137,7 +137,8 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 ## Resources
 ### Tutorials
 
-* [Learn Drupal 7](http://nodeone.se/en/learn-drupal-7-with-nodeone) - This learning series was made for people new to Drupal, who have heard about the most powerful CMS on earth and would like to get started without getting stuck – or just get an overview of what you can do with it. There are pointers to additional modules and extra fun here and there, but the series itself covers Drupal core only. (by NodeOne)
+* [Learn Drupal 7](http://nodeone.se/en/learn-drupal-7-with-nodeone) - This learning series was made for people new to Drupal, who have heard about the most powerful CMS on earth and would like to get started without getting stuck – or just get an overview of what you can do with it. (by NodeOne)
+* [Integrating remote data into Drupal 7 and exposing it to Views](http://colans.net/blog/integrating-remote-data-drupal-7-and-exposing-it-views) - Drupal's strength as a content management framework is in its ability to effectively manage and display structured content through its Web user interface. However, the out-of-the-box system assumes all data is local (stored in the database). This can present challenges when attempting to integrate remote data stored in other systems. You cannot, by default, display non-local records as pages. While setting this up is in itself a challenge, it is an even bigger challenge to manipulate, aggregate and display this data through Views.
 
 ### Books
 
