@@ -141,6 +141,7 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 
 ### Books
 
+* [Learn Drupal 7 with NodeOne](http://www.wunderkraut.com/content/learn-drupal-7-with-nodeone)
 * [Drupal Books](https://www.drupal.org/books) - There are many useful books about Drupal. Here are just a few of our recommendations.
 
 ### Tools
