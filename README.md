@@ -137,7 +137,6 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 ## Resources
 ### Tutorials
 
-* [Learn Drupal 7 with NodeOne](http://nodeone.se/en/learn-drupal-7-with-nodeone)
 * [Integrating remote data into Drupal 7 and exposing it to Views](http://colans.net/blog/integrating-remote-data-drupal-7-and-exposing-it-views)
 
 ### Books
