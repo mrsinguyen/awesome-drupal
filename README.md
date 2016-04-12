@@ -44,6 +44,11 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 
 ## Security
 
+* [Hacked!](https://www.drupal.org/project/hacked) - This module scans the currently installed Drupal, contributed modules and themes, re-downloads them and determines if they have been changed. Changes are marked clearly and if the diff module is installed then Hacked! will allow you to see the exact lines that have changed.
+* [Security Review](https://www.drupal.org/project/security_review) - The Security Review module automates testing for many of the easy-to-make mistakes that render your site insecure.
+* [Drupalgeddon](https://www.drupal.org/project/drupalgeddon) - Drupalgeddon (with an "L") checks for backdoors and other traces of known Drupal exploits of "Drupageddon" (no "L"), aka SA-CORE-2014-005 SQL injection.
+* [Site Audit](https://www.drupal.org/project/site_audit) - Site Audit is a Drupal static site analysis platform that generates reports with actionable best practice recommendations.
+
 ## Javascript libraries
 
 ## Modules
