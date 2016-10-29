@@ -162,4 +162,8 @@ blocks which display embedded timelines.
 
  * [check_drupal](https://github.com/cytopia/check_drupal) - Nagios drupal plugin to monitor the state of a drupal site for security updates, core errors and more.
 
+### Training
+
+* [Drupalize Me](https://drupalize.me/)
+
 ## References
