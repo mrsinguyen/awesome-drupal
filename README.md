@@ -125,7 +125,7 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 ### Social Media
 * [Facebook OAuth (FBOAuth)](https://www.drupal.org/project/fboauth) - This module provides authentication services and an API to perform actions against Facebook. This module allows users to login to Drupal through the service commonly known as "Facebook Connect". This module is built with simplicity and flexibility in mind, it provides login services (and does it well), and an API for performing any other actions you may want to write yourself to query against Facebook's APIs.
 * [Twitter Block](https://www.drupal.org/project/twitter_block) - Twitter Block is a lightweight module which allows administrators to create
-blocks which display embedded timelines.
+  blocks which display embedded timelines.
 * [Twitter](https://www.drupal.org/project/twitter) - This module provides API integration with the Twitter microblogging service. Out of the box, it allows users to: Associate one or more Twitter accounts with their Drupal user account. List tweets in different ways thanks to Views. Post to their own Twitter account or a site-wide Twitter account whenever they create new content or based on Drupal Actions or Rules. Log in to your Drupal site via Twitter. Format twitter @usernames and #hashtags as links to Twitter.com. Search and post to Twitter via Drush commands. View embedded images media from tweets (not in 7.x-6.x branch yet).
 * [AddThis](https://www.drupal.org/project/addthis) - Provides an AddThis.com button or toolbox to let your users share your content to social network sites.
 
@@ -161,10 +161,15 @@ blocks which display embedded timelines.
 
 ### Tools
 
- * [check_drupal](https://github.com/cytopia/check_drupal) - Nagios drupal plugin to monitor the state of a drupal site for security updates, core errors and more.
+* [check_drupal](https://github.com/cytopia/check_drupal) - Nagios drupal plugin to monitor the state of a drupal site for security updates, core errors and more.
 
 ### Training
 
 * [Drupalize Me](https://drupalize.me/)
+
+## Integration
+
+- [Integration Applications](https://drupalintegration.com/app-list?app=) - List of integration with third party services
+
 
 ## References
