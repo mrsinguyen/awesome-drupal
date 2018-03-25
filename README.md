@@ -153,6 +153,7 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 * [Integrating remote data into Drupal 7 and exposing it to Views](http://colans.net/blog/integrating-remote-data-drupal-7-and-exposing-it-views)
 * [The Drupal 8 Theming guide](http://sqndr.github.io/d8-theming-guide/index.html)
 * [Free Drupal 8 Tutorials – An Exhaustive List](http://redcrackle.com/blog/drupal-8/free-tutorials-list)
+* [Drupal Headless Architecture with Inferno.js [Live Demo]](https://snipcart.com/blog/drupal-headless-architecture-tutorial)
 
 ### Books
 
