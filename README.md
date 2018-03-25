@@ -3,23 +3,30 @@
 A curated list of amazingly awesome Drupal open source, resources and shiny things.
 
 ## User and Builder Guides
+### Drupal 7
 
-* [Drupal Concepts](https://www.drupal.org/documentation/concepts) - Before you install Drupal and begin using it, it’s a good idea to get an overall sense of what it is, and how it works.
-* [Installation Guide](https://www.drupal.org/documentation/install) - Install Drupal and its contributed modules and themes. Run multiple sites from one installation. Migrate from other content management systems and address platform issues.
-* [Administration & Security Guide](https://www.drupal.org/documentation/administer) - Manage users and content, perform backups and upgrades, secure your site, tweak performance, etc. Audience: System and site administrators.
-* [Structure Guide](https://www.drupal.org/documentation/structure) - Work with content types, blocks, menus, views, panels, taxonomy, user profiles, and navigation. Audience: information architects.
-* [Site Building Guide](https://www.drupal.org/documentation/build) - Add functionality and features such as e-commerce, forums, media, search, geographic data, dates, workflow, messaging, forms, social networking, etc. Audience: site builders, developers and business architects.
-* [Multilingual Guide](https://www.drupal.org/documentation/multilingual) - How to build sites in other languages and multi-language sites. Audience: site builders, site administrators.
-* [Theming Guide](https://www.drupal.org/documentation/theme) - Customize the interface using templates, CSS, etc. Override the output from core or contributed modules. Audience: designers, usability and accessibility professionals, interface experts.
-* [Mobile Guide](https://www.drupal.org/documentation/mobile) - How to build sites to support mobile devices. Audience: site builders, site administrators, designers.
+* [Drupal Concepts](https://www.drupal.org/docs/7/understanding-drupal/general-concepts) - Before you install Drupal and begin using it, it’s a good idea to get an overall sense of what it is, and how it works.
+* [Drupal Concepts](https://www.drupal.org/docs/7/system-requirements) - This guide covers detailed system requirements for a Drupal 7 installation.
+* [Installing Drupal 7](https://www.drupal.org/docs/7/install) - This guide covers preparing for installation, running the installation script, and the steps that should be done after the installation script has completed.
+* [Updating Drupal 7](https://www.drupal.org/docs/7/update) - Updating Drupal 7
+* [Administering Drupal 7 site](https://www.drupal.org/docs/7/administering-drupal-7-site) - Manage users and content, perform backups and upgrades, secure your site, tweak performance, etc. Audience: System and site administrators.
+* [Nodes, content types and fields](https://www.drupal.org/docs/7/nodes-content-types-and-fields) - Work with content types, blocks, menus, views, panels, taxonomy, user profiles, and navigation. Audience: information architects.
+* [Multilingual Guide](https://www.drupal.org/docs/7/multilingual) - How to build sites in other languages and multi-language sites. Audience: site builders, site administrators.
+* [Multisite Drupal 7](https://www.drupal.org/docs/7/multisite) - Drupal has a feature which allows separate, independent sites to be served from a single codebase. Each site has its own database, configuration, files and base domain or URL.
+* [Theming Drupal 7](https://www.drupal.org/docs/7/theming) - Customize the interface using templates, CSS, etc. Override the output from core or contributed modules. Audience: designers, usability and accessibility professionals, interface experts.
+* [Extending Drupal 7](https://www.drupal.org/docs/7/extend) - This documentation guide describes 'Extending' your Drupal 7 site beyond the capabilities of a standard Drupal core installation.
+* [Mobile Guide](https://www.drupal.org/docs/7/mobile) - Drupal has fantastic contributed modules and themes that make Drupal a great starting point for mobile solutions. This guide will help users to find and use those projects to build the best mobile solutions for their needs.
+* [Working with menus](https://www.drupal.org/docs/7/working-with-menus) - Menus are a collection of links (menu items) used to navigate a website. The Menu module provides an interface to control and customize the powerful menu system that comes with Drupal. Menus are primarily displayed as a hierarchical list of links using Drupal's highly flexible blocks feature. Each menu automatically creates a block of the same name. By default, new menu items are placed inside a built-in menu labelled Navigation, but administrators can also create custom menus.
 
 ## Developer Guides
+
+Documentation for developers about tools, processes, and standards that are not specific to a major version of Drupal.
 
 * [Develop for Drupal](https://www.drupal.org/documentation/develop) - Work with the API, JavaScript, and databases. Learn the Drupal coding standards. Audience: developers.
 * [API Reference](http://api.drupal.org/) - Search the complete Drupal API including forms, menus, node access, theme system, etc.
 * [Examples for Developers](http://drupal.org/project/examples) - Examine a standard repository of sample modules that can be used to learn module development, or are referenced on handbook pages.
 * [Git documentation](https://www.drupal.org/documentation/git) - Git is the version control system Drupal developers use to manage, and collaborate on, their projects and code.
-* [Glossary](https://www.drupal.org/glossary) - Find definitions of Drupal terminology and acronyms.
+* [Glossary](https://www.drupal.org/docs/7/understanding-drupal/glossary) - Find definitions of Drupal terminology and acronyms.
 * [Code snippets](https://www.drupal.org/documentation/customization/snippets) - Reuse chunks of Drupal code that people have shared with the community.
 * [Troubleshooting](https://www.drupal.org/troubleshooting) - Identify and solve problems with servers, page display, permissions, logins, etc.
 * [FAQs](https://www.drupal.org/drupal-faq) - Learn about documentation, licensing, the Drupal Association, community, etc.
