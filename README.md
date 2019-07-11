@@ -112,6 +112,7 @@ Documentation for developers about tools, processes, and standards that are not 
 
 * [Commerce](https://www.drupal.org/project/commerce) - Drupal Commerce is used to build eCommerce websites and applications of all sizes. At its core it is lean and mean, enforcing strict development standards and leveraging the greatest features of Drupal 7 and major modules like Views and Rules for maximum flexibility.
 * [Ubercart](https://www.drupal.org/project/ubercart) - Ubercart is the most popular Drupal E-Commerce platform for your website. It implements everything you need to start selling products online. Web Developers from all skill ranges can use it to support a variety of E-Commerce industries-- including physical goods, digital downloads, or even subscription based billing services.
+* [Commerce Square](https://www.drupal.org/project/commerce_square) - Square is the payment / POS company making commerce easy and accessible to everyone. This module integrates with their eCommerce API for online payments into Drupal Commerce.
 
 ### Publishing
 
