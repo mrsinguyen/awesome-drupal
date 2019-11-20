@@ -6,7 +6,7 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 ### Drupal 7
 
 * [Drupal Concepts](https://www.drupal.org/docs/7/understanding-drupal/general-concepts) - Before you install Drupal and begin using it, it’s a good idea to get an overall sense of what it is, and how it works.
-* [Drupal Concepts](https://www.drupal.org/docs/7/system-requirements) - This guide covers detailed system requirements for a Drupal 7 installation.
+* [System requirements](https://www.drupal.org/docs/7/system-requirements) - This guide covers detailed system requirements for a Drupal 7 installation.
 * [Installing Drupal 7](https://www.drupal.org/docs/7/install) - This guide covers preparing for installation, running the installation script, and the steps that should be done after the installation script has completed.
 * [Updating Drupal 7](https://www.drupal.org/docs/7/update) - Updating Drupal 7
 * [Administering Drupal 7 site](https://www.drupal.org/docs/7/administering-drupal-7-site) - Manage users and content, perform backups and upgrades, secure your site, tweak performance, etc. Audience: System and site administrators.
@@ -18,11 +18,18 @@ A curated list of amazingly awesome Drupal open source, resources and shiny thin
 * [Mobile Guide](https://www.drupal.org/docs/7/mobile) - Drupal has fantastic contributed modules and themes that make Drupal a great starting point for mobile solutions. This guide will help users to find and use those projects to build the best mobile solutions for their needs.
 * [Working with menus](https://www.drupal.org/docs/7/working-with-menus) - Menus are a collection of links (menu items) used to navigate a website. The Menu module provides an interface to control and customize the powerful menu system that comes with Drupal. Menus are primarily displayed as a hierarchical list of links using Drupal's highly flexible blocks feature. Each menu automatically creates a block of the same name. By default, new menu items are placed inside a built-in menu labelled Navigation, but administrators can also create custom menus.
 
+### Drupal 8
+* [Drupal 8 User Guide](https://www.drupal.org/docs/user_guide/en/index.html) - This guide was written mainly for people with minimal knowledge of the Drupal content management system.
+* [Evaluator Guide](https://www.drupal.org/docs/official_docs/en/_evaluator_guide.html) - This guide provides instructions for creating a temporary Drupal demo application that can be used to evaluate Drupal on your local machine.
+* [Drupal 8 Guide](https://www.drupal.org/docs/8) - A catch-all guide for Drupal 8.
+* [Drupal 8 APIs](https://www.drupal.org/docs/8/api) - Drupal 8 introduces many new APIs and keeps only some of the Drupal 7/6 API. This section details the APIs in Drupal 8.
+* [Drupal 8 API Reference](https://api.drupal.org/api/drupal) - This site is an API reference for Drupal, generated from comments embedded in the source code. More in-depth documentation can be found at https://www.drupal.org/developing/api.
+
 ## Developer Guides
 
 Documentation for developers about tools, processes, and standards that are not specific to a major version of Drupal.
 
-* [Develop for Drupal](https://www.drupal.org/documentation/develop) - Work with the API, JavaScript, and databases. Learn the Drupal coding standards. Audience: developers.
+* [Develop for Drupal](https://www.drupal.org/docs/develop) - Work with the API, JavaScript, and databases. Learn the Drupal coding standards. Audience: developers.
 * [API Reference](http://api.drupal.org/) - Search the complete Drupal API including forms, menus, node access, theme system, etc.
 * [Examples for Developers](http://drupal.org/project/examples) - Examine a standard repository of sample modules that can be used to learn module development, or are referenced on handbook pages.
 * [Git documentation](https://www.drupal.org/documentation/git) - Git is the version control system Drupal developers use to manage, and collaborate on, their projects and code.
@@ -32,6 +39,7 @@ Documentation for developers about tools, processes, and standards that are not 
 * [FAQs](https://www.drupal.org/drupal-faq) - Learn about documentation, licensing, the Drupal Association, community, etc.
 * [Tutorials and recipes](https://www.drupal.org/node/627198) - Find miscellaneous information contributed by other Drupal users.
 * [Resource guides](https://www.drupal.org/resource-guides) - A collection of resources and tools for building Drupal websites.
+* [Local Development Guide](https://www.drupal.org/docs/official_docs/en/_local_development_guide.html) - The purpose of this guide is to assist you with creating and installing a new Drupal application on your local machine for the purpose of development. 
 
 ## Distributions
 
@@ -179,6 +187,3 @@ Documentation for developers about tools, processes, and standards that are not 
 ## Integration
 
 - [Integration Applications](https://drupalintegration.com/app-list?app=) - List of integration with third party services
-
-
-## References
